@@ -1,4 +1,4 @@
-# 📚 Scientific Articles Repository
+# 📚 Articles
 
 ## Description
 
