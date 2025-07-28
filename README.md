@@ -13,8 +13,14 @@ articles/
 │   └── README.md     # Description of 2021 articles
 ├── 2024/             # Articles from 2024
 │   └── README.md     # Description of 2024 articles
-└── 2025/             # Articles from 2025
-    └── README.md     # Description of 2025 articles
+├── 2025/             # Articles from 2025
+│   └── README.md     # Description of 2025 articles
+└── articles-md/      # Markdown versions of articles
+    ├── 2025-06-26.md
+    ├── 2024-11-27.md
+    ├── 2024-11-27.md
+    ├── 2024-11-27.md
+    └── 2021-12-31.md
 ```
 
 ## Contents
@@ -39,6 +45,17 @@ articles/
 - Article presented at the 45th International Business Information Management Association Conference (IBIMA)
 - Theme: "Digital Transformation and Innovation in the Era of Emerging Technologies"
 - 📰 Article available on [IBIMA website](https://ibima.org/accepted-paper/towards-a-decentralized-internet-the-interplay-of-novel-architectures-protocols-and-community-driven-development/)
+
+## 📄 Articles in Markdown Format
+
+The `articles-md/` folder contains markdown versions of all articles for easy reading and reference. These files are numbered chronologically and include the publication date in their filename.
+
+### Available Markdown Articles:
+- `2025-06-26.md` - Towards a Decentralized Internet (2025)
+- `2024-11-27.md` - The Role of Cultural Conditioning in Mobile Application Design (2024)
+- `2024-11-27.md` - The Misinterpretation of Agile Methodologies in Software Development (2024)
+- `2024-11-27.md` - Selected Open-Source Solutions for Sustainable Finance (2024)
+- `2021-12-31.md` - Overview of selected open-source solutions in the field of Sustainable Technology (2021)
 
 ## Author
 
